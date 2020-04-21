@@ -10,5 +10,5 @@ https://kit.fontawesome.com/c939d0e917.js
 
 Checkout out our `Profit With JavaScript Course`    :point_down: 
 
-[Click Here](https://course.javascriptfreelancer.com/short?utm_source=github&utm_medium=repo&utm_campaign=google-maps-webinar-starter-april-18)
+[Click Here](https://course.javascriptfreelancer.com/short?utm_source=github&utm_medium=repo&utm_campaign=google-maps-challenge-april-6)
 
